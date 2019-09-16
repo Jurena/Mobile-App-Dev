@@ -1,5 +1,4 @@
-This Porject is a simple ToDo List created using React JS
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is a simple ToDo List created using React JS
 
 ## Available Scripts
 
